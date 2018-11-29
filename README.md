@@ -3,7 +3,7 @@ A module that returns random alphanumeric strings.
 
 ## HOW TO INSTALL
 ```javascript
- npm install random-string-module --save
+ npm install malcom-random-string --save
 ## HOW TO USE
 var random = require('malcom-random-string');
 
